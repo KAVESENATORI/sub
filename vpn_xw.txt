@@ -1,0 +1,4 @@
+trojan://48839b90-2fe7-11ee-a828-1239d0255272@103.212.81.85:443/?type=tcp&security=tls&sni=ftp.debian.org&allowInsecure=1#RO%F0%9F%87%B7%F0%9F%87%B4XW
+trojan://c327c190-2fe4-11ee-b7d6-1239d0255272@51.159.59.186:443/?type=tcp&security=tls&sni=ftp.debian.org&allowInsecure=1#FR%F0%9F%87%AB%F0%9F%87%B7XW
+trojan://3a38ee20-2fea-11ee-a860-1239d0255272@51.81.82.15:443/?type=tcp&security=tls&sni=ftp.debian.org&allowInsecure=1#USA%F0%9F%87%BA%F0%9F%87%B8XW
+vless://dd8d1d0b-4b4b-492c-a210-63b099152800@95.179.171.140:2053/?type=grpc&encryption=none&serviceName=rand&security=tls&sni=onwhpcmr.terminators.buzz&alpn=h2#CA%F0%9F%87%A8%F0%9F%87%A6XW
