@@ -2,3 +2,4 @@ trojan://48839b90-2fe7-11ee-a828-1239d0255272@103.212.81.85:443/?type=tcp&securi
 trojan://c327c190-2fe4-11ee-b7d6-1239d0255272@51.159.59.186:443/?type=tcp&security=tls&sni=ftp.debian.org&allowInsecure=1#FR%F0%9F%87%AB%F0%9F%87%B7XW
 trojan://3a38ee20-2fea-11ee-a860-1239d0255272@51.81.82.15:443/?type=tcp&security=tls&sni=ftp.debian.org&allowInsecure=1#USA%F0%9F%87%BA%F0%9F%87%B8XW
 vless://dd8d1d0b-4b4b-492c-a210-63b099152800@95.179.171.140:2053/?type=grpc&encryption=none&serviceName=rand&security=tls&sni=onwhpcmr.terminators.buzz&alpn=h2#CA%F0%9F%87%A8%F0%9F%87%A6XW
+vless://eeafa0b8-9923-413d-833c-1f2adbb36cac@94.228.169.253:2052/?type=http&encryption=none&flow=&path=%2F&sni=doodle.com&fp=firefox&security=reality&pbk=XkLMCD918sn7YXlp-xHJ7cYNthyHcnk5mE5-3ClxpiU&sid=2abaf86c#AU%F0%9F%87%A6%F0%9F%87%B9XW
